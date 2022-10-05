@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (DataStructure_Assignment)" project-jdk-type="Python SDK" />
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (자료구조 assignment)" project-jdk-type="Python SDK" />
+>>>>>>> 6ff26d0dddb7349bfde79cc17c5e72130fd840e9
 </project>
