@@ -17,11 +17,6 @@ cnt = a.count(1)
 
 for i in range(0, m*n, m):
     arr.append(a[i:i+m])
-for i in range(m):
-    for j in range(n):
-       print(arr[i][j], end=' ')
-    print()
-print('---------------------')
 
 # state는 열었을 때 왼쪽과 위가 1인 경우 0을 1로 바꾼다
 b_state = []
@@ -79,9 +74,5 @@ for i in range(1, n-1):
                 arr[i][j] = 2
                 cnt += 1
 
-for i in range(m):
-   for j in range(n):
-       print(arr[i][j], end=' ')
-   print()
 print(cnt)
 
